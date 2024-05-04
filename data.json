@@ -1,0 +1,262 @@
+{
+    "classrooms": [
+        {
+            "name": "ClassroomA21 - G1A",
+            "image": "https://images.pexels.com/photos/346529/pexels-photo-346529.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "number-students": 20
+        },
+        {
+            "name": "ClassroomA22 - G1B",
+            "image": "https://images.pexels.com/photos/147411/italy-mountains-dawn-daybreak-147411.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "number-students": 31
+        },
+        {
+            "name": "ClassroomA23 - G1C",
+            "image": "https://images.pexels.com/photos/247599/pexels-photo-247599.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "number-students": 19
+        },
+        {
+            "name": "ClassroomA24 - G2A",
+            "image": "https://images.pexels.com/photos/709552/pexels-photo-709552.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "number-students": 16
+        }
+    ],
+    "facilitiesList": [
+        {
+            "name": "Main auditorium",
+            "description": "The main auditorium is a large room with a stage and seating for an audience. It is used for concerts, plays, and other performances.",
+            "budget": 1000,
+            "creation": "April 20, 2025",
+            "period": "6 month",
+            "state": "In progress"
+        },
+        {
+            "name": "High school playground",
+            "description": "The main auditorium is a large room with a stage and seating for an audience.",
+            "budget": 1000,
+            "creation": "April 20, 2025",
+            "period": "6 month",
+            "state": "In progress"
+        },
+        {
+            "name": "Primary school playground",
+            "description": "The main auditorium is a large room with a stage and seating for an audience. It is used for concerts, plays, and other performances.",
+            "budget": 1000,
+            "creation": "April 20, 2025",
+            "period": "6 month",
+            "state": "Finalized"
+        },
+        {
+            "name": "Building A",
+            "description": "The main auditorium is a large room with a stage and seating for an audience. It is used for concerts, plays, and other performances.",
+            "budget": 1000,
+            "creation": "April 20, 2025",
+            "period": "6 month",
+            "state": "In progress"
+        },
+        {
+            "name": "Main auditorium",
+            "description": "The main auditorium is a large room with a stage and seating for an audience.",
+            "budget": 1000,
+            "creation": "April 20, 2025",
+            "period": "6 month",
+            "state": "In progress"
+        },
+        {
+            "name": "High school playground",
+            "description": "The main auditorium is a large room with a stage and seating for an audience. It is used for concerts, plays.",
+            "budget": 1000,
+            "creation": "April 20, 2025",
+            "period": "6 month",
+            "state": "In progress"
+        },
+        {
+            "name": "Primary school playground",
+            "description": "The main auditorium is a large room with a stage and seating for an audience. It is used for concerts, plays, and other performances.",
+            "budget": 1000,
+            "creation": "April 20, 2025",
+            "period": "6 month",
+            "state": "Finalized"
+        },
+        {
+            "name": "Building A",
+            "description": "The main auditorium is a large room with a stage and seating for an audience. It is used for concerts, plays, and other performances.",
+            "budget": 1000,
+            "creation": "April 20, 2025",
+            "period": "6 month",
+            "state": "In progress"
+        }
+    ],
+    "classroomEquipmentList": [
+        {
+            "equipment": "Student desk",
+            "quantity": 10,
+            "budget": 1000,
+            "creation": "April 20, 2025",
+            "period": "10 month",
+            "state": "In progress"
+        },
+        {
+            "equipment": "Teacher desk",
+            "quantity": 1,
+            "budget": 1000,
+            "creation": "April 20, 2025",
+            "period": "9 month",
+            "state": "In progress"
+        },
+        {
+            "equipment": "Whiteboard",
+            "quantity": 1,
+            "budget": 1000,
+            "creation": "April 20, 2025",
+            "period": "6 month",
+            "state": "In progress"
+        },
+        {
+            "equipment": "Student desk",
+            "quantity": 10,
+            "budget": 1000,
+            "creation": "April 20, 2025",
+            "period": "10 month",
+            "state": "In progress"
+        },
+        {
+            "equipment": "Teacher desk",
+            "quantity": 1,
+            "budget": 1000,
+            "creation": "April 20, 2025",
+            "period": "9 month",
+            "state": "In progress"
+        },
+        {
+            "equipment": "Whiteboard",
+            "quantity": 1,
+            "budget": 1000,
+            "creation": "April 20, 2025",
+            "period": "6 month",
+            "state": "In progress"
+        },
+        {
+            "equipment": "Whiteboard",
+            "quantity": 1,
+            "budget": 1000,
+            "creation": "April 20, 2025",
+            "period": "6 month",
+            "state": "In progress"
+        },
+        {
+            "equipment": "Student desk",
+            "quantity": 10,
+            "budget": 1000,
+            "creation": "April 20, 2025",
+            "period": "10 month",
+            "state": "In progress"
+        }
+    ],
+    "coursesList": [
+        {
+            "name": "Mathematics",
+            "teacher": "Mr. John Doe",
+            "number-students": 31,
+            "image": "https://cdn.pixabay.com/photo/2023/10/24/06/31/ai-generated-8337510_1280.jpg"
+        },
+        {
+            "name": "English",
+            "teacher": "Mrs. Jane Doe",
+            "number-students": 31,
+            "image": "https://cdn.pixabay.com/photo/2018/09/15/13/28/trainer-3679422_1280.jpg"
+        }
+    ],
+    "studentsList": [
+        {
+            "name": "John Doe Ramirez",
+            "code": "studentU206518475"
+        },
+        {
+            "name": "Abraham Ayquipa Ubaldo",
+            "code": "studentU202218657"
+        },
+        {
+            "name": "Hector Manrique Perez",
+            "code": "studentU202218435"
+        },
+        {
+            "name": "John Doe Ramirez",
+            "code": "studentU206518475"
+        },
+        {
+            "name": "Abraham Ayquipa Ubaldo",
+            "code": "studentU202218657"
+        },
+        {
+            "name": "Hector Manrique Perez",
+            "code": "studentU202218435"
+        },
+        {
+            "name": "Abraham Ayquipa Ubaldo",
+            "code": "studentU202218657"
+        },
+        {
+            "name": "Hector Manrique Perez",
+            "code": "studentU202218435"
+        },
+        {
+            "name": "John Doe Ramirez",
+            "code": "studentU206518475"
+        },
+        {
+            "name": "Abraham Ayquipa Ubaldo",
+            "code": "studentU202218657"
+        },
+        {
+            "name": "Hector Manrique Perez",
+            "code": "studentU202218435"
+        }
+    ],
+    "teachersList": [
+        {
+            "name": "John Doe Ramirez",
+            "code": "teacherU206518475"
+        },
+        {
+            "name": "Abraham Ayquipa Ubaldo",
+            "code": "teacherU202218657"
+        },
+        {
+            "name": "Hector Manrique Perez",
+            "code": "teacherU202218435"
+        },
+        {
+            "name": "John Doe Ramirez",
+            "code": "teacherU206518475"
+        },
+        {
+            "name": "Abraham Ayquipa Ubaldo",
+            "code": "teacherU202218657"
+        },
+        {
+            "name": "Hector Manrique Perez",
+            "code": "teacherU202218435"
+        },
+        {
+            "name": "Abraham Ayquipa Ubaldo",
+            "code": "teacherU202218657"
+        },
+        {
+            "name": "Hector Manrique Perez",
+            "code": "teacherU202218435"
+        },
+        {
+            "name": "John Doe Ramirez",
+            "code": "teacherU206518475"
+        },
+        {
+            "name": "Abraham Ayquipa Ubaldo",
+            "code": "teacherU202218657"
+        },
+        {
+            "name": "Hector Manrique Perez",
+            "code": "teacherU202218435"
+        }
+    ]
+}
